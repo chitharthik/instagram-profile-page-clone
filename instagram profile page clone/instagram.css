@@ -1,0 +1,259 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: #6e85e0;
+}
+.bodycontainer
+{
+    display: flex;
+    height: 750px;
+    justify-content: center;
+    align-items: center;
+}
+.container
+{
+    background-color: #FAFAFA;
+    height: 700px;
+    width: 1100px;
+}
+.inslogo
+{
+    height: fit-content;
+    width: fit-content;
+    height: 40px;
+    width: 40px;
+    padding-right:10px;
+}
+.name
+{
+    font-family: cursive;
+}
+.top
+{
+    display: flex;
+    
+    
+    background-color:white;
+   
+    padding: 10px;
+    box-shadow: 0px 2px 2px 0px gray;
+   
+    
+}
+ul,li{
+    display: flex;
+    margin-top: 8px;
+    position: relative;
+     left: 340px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    padding-left: 20px;
+}
+.left
+{
+    /* border: 2px solid black; */
+    width: 300px;
+    background-color: #FAFAFA;
+    height: 629px;
+    margin-top: 3px;
+    box-shadow: 20px 0px 5px 0px gray;
+}
+.src
+{
+    background: none;
+    border-style: none;
+    height: 30px;
+    width: 280px;
+    box-shadow: 0px 0px 2px 0px;
+    border-radius: 7px;
+    margin-top: 25px;
+    margin-left: 10px;
+    padding-left: 28px;
+    background-color: white;
+}
+input:focus
+{
+    outline: none;
+}
+.icon
+{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    
+}
+
+.plus
+{
+    
+    position: relative;
+    left: 265px;
+}
+.lat
+{
+    position: relative;
+    top: 22px;
+    left: 10px;
+}
+
+.slid
+{
+    
+    height: 90px;
+    background-color: white;
+}
+.slid2
+{
+    border-right: 5px solid rgb(251, 255, 0);
+    
+}
+.prof
+{
+    height: fit-content;
+    width: fit-content;
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.nam{
+    position: relative;
+    left: 80px;
+    bottom: 55px;
+    font-weight: 900;
+}
+.nam1
+{
+    position: relative;
+    top:-92px;
+    left: 265px;
+}
+a:hover
+{
+    transform: scale(1.2);
+    
+}
+.right
+{
+    
+    width: 300px;
+    background-color:white;
+    height: 632px;
+    margin-top: 3px;
+    box-shadow: 0px 0px 0px 0px gray;
+    position: relative;
+    top:-633px;
+    left: 800px;
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid; */
+    
+}
+
+
+.proff
+{
+    height: fit-content;
+    width: fit-content;
+    height: 200px;
+    margin-top: 20px;
+}
+.btn
+{
+    height: 40px;
+    width: 100px;
+    background-color: #0097FF;
+    border-style: none;
+    font-size: 10px;
+    border-radius: 10px;
+    
+}
+.convo
+{
+    height: 632px;
+    width: 495px;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 1264px;
+    left: 301px
+
+}
+.leftmsg
+{
+    font-size: 12px;
+    position: relative;
+    top: -50px;
+    left: 75px;
+    border: 1px solid gray;
+    width: 260px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.tick
+{
+    height: 8px;
+    width: 8px;
+    color: gray;
+}
+small
+{
+    color: gray;
+}
+.time
+{
+    position: relative;
+    bottom: 50px;
+    left: 295px;
+}
+.ri
+{
+    position: relative;
+    left: 350px;
+}
+.sms2
+{
+    position: relative;
+    right: -75px;
+}
+.chat
+{
+    border-top: 1px solid rgb(194, 186, 186);
+    padding-top: 5px;
+}
+.hello
+{
+    position: relative;
+    top: 0px;
+    left: 25px;
+    background: white;
+    height: 40px;
+    width: 390px;
+    border-style: none;
+    border-radius: 15px;
+    border: 1px solid grey;
+    padding-left: 20px;
+}
+.send
+{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    right: -35px;
+    bottom: -13px;
+}
+.mic
+{
+    position: absolute;
+    right: 70px;
+    bottom: 38px;
+    color: rgb(72, 71, 71);
+}
+
